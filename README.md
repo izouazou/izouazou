@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Abdennour ZOUAZOU, a Software Engineer.
+I'm Abdennour ZOUAZOU, a Software Developer.
 
 
 - ⚒️ Python / JavaScript / C++ .
