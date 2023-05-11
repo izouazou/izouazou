@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Abdennour ZOUAZOU, a Software Engineert.
+I'm Abdennour ZOUAZOU, a Software Engineer.
 
 
 - 🔭 I’m currently working on ...
