@@ -5,7 +5,7 @@ I'm Abdennour ZOUAZOU, a Software Engineer.
 
 - 🔭 I’m currently working on ...
 - ⚒️ Python / JavaScript / C++ .
-- 💭 Ask me anything at @Twitter!
-- 📫 How to reach me: [@zouazou](https://twitter.com/zouazou)
+- 💭 Ask me anything at [@zouazou](https://twitter.com/zouazou)!
+- 📫 How to reach me: 
 - 
 
