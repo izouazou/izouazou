@@ -7,5 +7,5 @@ I'm Abdennour ZOUAZOU, a Software Engineer.
 - ⚒️ Python / JavaScript / C++ .
 - 💭 Ask me anything at @Twitter!
 - 📫 How to reach me: ...
-- ![Twitter](https://twitter.com/zouazou)
+- [!Twitter](https://twitter.com/zouazou)
 
