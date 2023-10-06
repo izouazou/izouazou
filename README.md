@@ -3,7 +3,7 @@
 I'm Abdennour ZOUAZOU, a Software Developer.
 
 
-- ⚒️ Python / JavaScript / C++ .
+- ⚒️ Python / DJANGO / SQL .
 - 💭 Ask me anything at [@zouazou](https://twitter.com/zouazou)!
 
 
