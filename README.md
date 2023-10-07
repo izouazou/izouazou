@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Abdennour ZOUAZOU, a Software Developer.
+I'm Abdennour ZOUAZOU, a Python/Django Developer || Data Scientist/Analyst.
 
 
 - ⚒️ Python / DJANGO / SQL .
