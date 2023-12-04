@@ -18,7 +18,6 @@ I'm Abdennour ZOUAZOU, your go-to Python Developer and Data Scientist/Analyst. W
 
 **🌐 Let's Connect:**  
 
-[LinkedIn](https://www.linkedin.com/in/zouazou) is the place to be! Feel free to drop by, ask anything, or just connect.  
 Feel free to drop by my [LinkedIn](https://www.linkedin.com/in/zouazou) profile to introduce yourself, ask questions, or collaborate on projects. I'm always eager to connect with fellow coders and data enthusiasts.
 
 **Let's Code and Analyze Together:**
