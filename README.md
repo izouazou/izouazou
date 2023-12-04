@@ -19,7 +19,9 @@ Greetings! I'm Abdennour ZOUAZOU, your go-to Python Developer and Data Scientist
 
 **🔧 Tech Toolbox:**  
 
-Proficient in Python, SQL, and JavaScript.  
+* Python
+* SQL
+* JavaScript
 
 **🌐 Let's Connect:**  
 
