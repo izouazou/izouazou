@@ -9,6 +9,15 @@ Greetings! I'm Abdennour ZOUAZOU, your go-to Python Developer and Data Scientist
 * SQL
 * JavaScript
 
+* Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, Keras, BeautifulSoup, NLTK, Gensim, Statsmodels, Django, Flask) 
+* SQL (PostgreSQL, MySQL) 
+* JavaScript (React JS, HTML, CSS, Bootstrap)
+* Tableau, Power BI, Excel
+* Git, GitHub
+* Docker
+* AWS
+
+
 **🌐 Let's Connect:**  
 
 [LinkedIn](https://www.linkedin.com/in/zouazou) is the place to be! Feel free to drop by, ask anything, or just connect.  
