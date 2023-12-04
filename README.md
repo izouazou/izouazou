@@ -25,6 +25,6 @@ Feel free to drop by my [LinkedIn](https://www.linkedin.com/in/zouazou) profile 
 
 Have an idea or question? Bring it on! I'm passionate about coding and data analysis, and I'm always up for a challenge. Together, we can create and analyze data with passion and expertise.  
 
-**Cheers,**
+**Best regards,**
 
 Abdennour ZOUAZOU
