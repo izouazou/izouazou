@@ -17,7 +17,7 @@ I'm Abdennour ZOUAZOU, your go-to Python Developer and Data Scientist/Analyst. W
 * AWS
 
 
-* Python: Proficient in Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, Keras, BeautifulSoup, NLTK, Gensim, Statsmodels, Django, and Flask.
+* **Python:** Proficient in Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, Keras, BeautifulSoup, NLTK, Gensim, Statsmodels, Django, and Flask.
 
 * SQL: Comfortable working with PostgreSQL and MySQL, managing and querying databases.
 
