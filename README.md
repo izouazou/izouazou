@@ -8,14 +8,6 @@ I'm Abdennour ZOUAZOU, your go-to Python Developer and Data Scientist/Analyst. W
 
 **🔧 Tech Toolbox:**  
 
-* Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, Keras, BeautifulSoup, NLTK, Gensim, Statsmodels, Django, Flask) 
-* SQL (PostgreSQL, MySQL) 
-* JavaScript (React JS, HTML, CSS, Bootstrap)
-* Tableau, Power BI, Excel
-* Git, GitHub
-* Docker
-* AWS
-
 
 * **Python:** Proficient in Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, Keras, BeautifulSoup, NLTK, Gensim, Statsmodels, Django, and Flask.
 
