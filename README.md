@@ -1,10 +1,3 @@
-
-
-- Ask me anything on [@LinkedIn](https://www.linkedin.com/in/zouazou)
-
-
-
-
 ### Welcome to Abdennour ZOUAZOU's Code Haven! 👋  
 
 Greetings! I'm Abdennour ZOUAZOU, your go-to Python Developer and Data Scientist/Analyst. Delve into my GitHub profile to discover an array of projects and contributions spanning the realms of code and data. Whether you're here to explore, collaborate, or have burning questions, feel free to engage and connect.  
