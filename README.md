@@ -9,19 +9,7 @@ I'm Abdennour ZOUAZOU, your go-to Python Developer and Data Scientist/Analyst. W
 **🔧 Tech Toolbox:**  
 
 
-* **Python:** Proficient in Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, Keras, BeautifulSoup, NLTK, Gensim, Statsmodels, Django, and Flask.
-
-* **SQL:** Comfortable working with PostgreSQL and MySQL, managing and querying databases.
-
-* **JavaScript:** Adept in crafting interactive web applications using React JS, coupled with expertise in HTML, CSS, and Bootstrap for seamless user experiences.
-
-* **Data Visualization:** Experienced with Tableau, Power BI, and Excel, transforming raw data into insightful visual narratives.
-
-* **Version Control:** Git and GitHub are my go-to tools for efficient and collaborative code management.
-
-* **Containerization:** Skilled in using Docker to streamline application deployment and management.
-
-* **Cloud Services:** Proficient in leveraging AWS for scalable and reliable cloud solutions.
+I'm proficient in a variety of programming languages and tools, including **Python**, **SQL**, **JavaScript**, and **data visualization** tools. I can also use **Git**, **GitHub**, **Docker**, and **AWS**. 
 
 **🌐 Let's Connect:**  
 
