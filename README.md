@@ -9,4 +9,4 @@
 
 **🌐 Let's Connect**: Feel free to drop by my [LinkedIn](https://www.linkedin.com/in/zouazou)
 
-** Got an idea or question? Let's code and analyze together!**
+**Got an idea or question? Let's code and analyze together!**
